@@ -1,0 +1,34 @@
+flask==2.3.3
+gevent==23.9.1
+opencv-python-headless==4.6.0.66
+seaborn==0.12.2
+pandas==2.0.3
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+nltk==3.8.1
+pdfminer.six==20221105
+PyPDF2==3.0.1
+datefinder==0.7.3
+dateparser==1.1.8
+pdfplumber==0.10.2
+nameparser==1.1.2
+addressparser==0.2.4
+python-dateutil==2.8.2
+pyap==0.3.1
+usaddress==0.5.10
+transformers==4.30.2
+sentence-transformers==2.2.2
+spacy==3.6.1
+spacy-transformers==1.2.5
+flair==0.12.2
+PyMuPDF==1.20.2
+Pillow==10.0.0
+pdf2image==1.16.3
+pytesseract==0.3.10
+paddleocr==2.7.0.2
+paddlepaddle==2.5.1
+pypdfium2==4.20.0
+
+#python -m spacy download en_core_web_trf
+#python -m pip install paddlepaddle -i https://pypi.tuna.tsinghua.edu.cn/simple
